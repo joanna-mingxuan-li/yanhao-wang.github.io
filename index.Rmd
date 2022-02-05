@@ -1,21 +1,19 @@
 ---
 ---
+<link href="site_libs/fontawesome-free-6.0.0-beta3-web/css/all.css" rel="stylesheet">
 
-<link rel="stylesheet" href="style.css" type="text/css">
+<img src="images/AtOSU.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
 
-<img src="images/AtTaiwan.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
-
-<span style="color:Black; font-size: 20pt; font-family:'Bebas Neue'" >Yanhao Wang</span>    <span style="color:Black; font-size: 20pt; font-family:'STFangsong'" >(王彦皓)</span>
+<span style="color:Black; font-size: 20pt; font-family:'Lucida Sans'" >Joanna Mingxuan Li </span>    <span style="color:Black; font-size: 20pt; font-family:'SimYou'" >李明璇</span>
 
 
-Hi! Welcome to my website!
+Welcome!
 
-I'm a PhD candidate at the department of [Business Economics and Public Policy](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.cshtml), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).
+I am a Ph.D. candidate in Strategic Management and Organization Theory at the department of [Management and Entrepreneurship](https://kelley.iu.edu/faculty-research/departments/management-entrepreneurship/index.html), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).
 
-I got my Bachelor degree in Finance and Master's degree in Economics from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was also an exchange student at [Smith School of Business](https://smith.queensu.ca/index.php), [Queen's University](https://www.queensu.ca/). 
 
-I'm doing research at the intersection of empirical industrial organization with special interests in financial and healthcare markets. I'm also interested in applied econometrics and development economics.
+My current research interest lies at the intersection of strategy and organization theory, with a particular focus on questions at the business-society interface. 
 
-<!-- My CV is available [here](files/cv/CV_YanhaoWang_May2019.pdf). -->
+You can contact me via [joli@iu.edu](joli@iu.edu)<br>
 
-You can contact me via [yw113@iu.edu](yw113@iu.edu).
+
